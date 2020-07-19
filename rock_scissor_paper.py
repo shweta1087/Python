@@ -1,7 +1,7 @@
 import random
 
 list = ['rock', 'scissor', 'paper']
-computer = random.choice(list)
+#computer = random.choice(list)
 print("Value selected by system is",computer)
 
 User=input("Select one of \"rock, paper, scissor\": \n")
